@@ -1,1 +1,1 @@
-# predicting-heart-disease-project
+# Predicting-Heart-Disease
